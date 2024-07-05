@@ -1,0 +1,15 @@
+nav > ul >li {
+    display: inline;
+    margin-right: 15px;
+    font-size: larger;
+}
+nav li> a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin: 15px;
+}
+#onelove{
+    color: red;
+}
